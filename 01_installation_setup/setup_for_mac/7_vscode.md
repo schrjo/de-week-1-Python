@@ -100,3 +100,6 @@ This page is macOS-only and mirrors our Linux guide: install (download or Homebr
 6. Pylance
 7. Python Type Hint
 8. Rainbow CSV
+
+<img width="410" height="324" alt="image" src="https://github.com/user-attachments/assets/8b8bc6ae-6dff-49c3-a077-abe5cfef20f1" />
+
