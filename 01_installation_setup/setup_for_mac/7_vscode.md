@@ -90,3 +90,13 @@ This page is macOS-only and mirrors our Linux guide: install (download or Homebr
 [2]: https://code.visualstudio.com/docs/setup/mac "Visual Studio Code on macOS"
 [3]: https://formulae.brew.sh/cask/visual-studio-code "visual-studio-code"
 [4]: https://code.visualstudio.com/docs/configure/command-line "Command Line Interface (CLI)"
+
+### Nice extensions to install in VScode
+1. autopep8
+2. Dev Containers 
+3. MySQL (from Database Client)
+4. Docker
+5. GitHub Copilot
+6. Pylance
+7. Python Type Hint
+8. Rainbow CSV
