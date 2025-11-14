@@ -93,6 +93,15 @@ This page mirrors our Linux/macOS guides: **download/winget → install → PATH
 [4]: https://code.visualstudio.com/docs/configure/command-line "Command Line Interface (CLI)"
 [5]: https://microsoft.github.io/vscode-essentials/en/01-getting-started.html "Getting started with VS Code · Visual Studio Code"
 
+### Nice extensions to install in VScode
+1. autopep8
+2. Dev Containers 
+3. MySQL (from Database Client)
+4. Docker
+5. GitHub Copilot
+6. Pylance
+7. Python Type Hint
+8. Rainbow CSV
 
 <img width="410" height="324" alt="image" src="https://github.com/user-attachments/assets/d947bfc5-3e0d-486d-81a2-b52705b2ce80" />
 
